@@ -1,16 +1,18 @@
 # Hi, I'm Ashish Jain 👋
 
-### Senior Backend Developer | GoLang, Node.js, AWS, Microservices
+### Full Stack Developer | GoLang, Node.js, React.js, Next.js, AWS
 
-I'm a backend developer with over 5 years of experience building scalable and efficient systems using GoLang, Node.js, and AWS. I specialize in microservices architectures, containerized deployments, and cloud infrastructure.
+I'm a full-stack developer with over 5 years of experience building scalable and efficient systems using GoLang, Node.js, React.js, Next.js, and AWS. I specialize in microservices, containerized deployments, and creating user-friendly frontend interfaces. I also work with **Flutter** for mobile app development.
+
 
 ---
 
 ### 🛠️ Languages and Tools
 
 - **Languages**: GoLang, Node.js, Python, JavaScript
-- **Backend**: gRPC, RESTful APIs, GraphQL Microservices, Event-Driven Systems
-- **Cloud & DevOps**: AWS (EC2, ECS, EKS, Lambda), Docker, Kubernetes, CI/CD
+- **Frontend**: React.js, Next.js, Flutter
+- **Backend**: gRPC, RESTful APIs, GraphQL, Microservices, Event-Driven Systems
+- **Cloud & DevOps**: AWS (EC2, ECS, EKS, Lambda), Firebase, Docker, Kubernetes, CI/CD
 - **Databases**: MongoDB, PostgreSQL, MySQL, Redis, DynamoDB
 - **Other Tools**: Kafka, RabbitMQ, Git
 
@@ -18,10 +20,12 @@ I'm a backend developer with over 5 years of experience building scalable and ef
 
 ### 🚀 What I'm Working On
 
-I’m currently focused on:
-- Developing and optimizing microservices in GoLang
-- Enhancing cloud infrastructure on AWS
-- Experimenting with serverless architectures and event-driven systems
+Right now, I'm focused on:
+- **Building Full-Stack Applications**: I love turning concepts into fully functional, user-friendly applications, blending responsive frontends with powerful backends.
+- **Enhancing Cloud Infrastructure**: From AWS to Firebase, I’m continuously exploring ways to optimize cloud setups for speed, scalability, and reliability.
+- **Exploring Serverless and Event-Driven Architectures**: I'm diving into serverless solutions and event-driven designs to create efficient, scalable systems that handle real-world demands.
+
+I’m passionate about pushing my skills to the next level and always looking for innovative ways to make technology work better, faster, and smarter.
 
 ---
 
