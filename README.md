@@ -33,6 +33,7 @@ I’m passionate about pushing my skills to the next level and always looking fo
 
 Feel free to connect with me for collaboration, consulting, or to discuss backend development and cloud solutions!
 
+[![Upwork](https://img.shields.io/badge/Upwork-Ashish_Jain-brightgreen?style=flat&logo=upwork)](https://www.upwork.com/freelancers/ashishj94)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish_Jain-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashish-jain-dev/)
 [![Email](https://img.shields.io/badge/Email-ashish2103parmar@gmail.com-informational?style=flat&logo=gmail)](mailto:ashish2103parmar@gmail.com)
 
