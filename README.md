@@ -1,6 +1,6 @@
 # Hi, I'm Ashish Jain 👋
 
-### Full Stack Developer | GoLang, Node.js, React.js, Next.js, AWS
+### Software Developer | GoLang, Node.js, React.js, Next.js, AWS
 
 I'm a full-stack developer with over 5 years of experience building scalable and efficient systems using GoLang, Node.js, React.js, Next.js, and AWS. I specialize in microservices, containerized deployments, and creating user-friendly frontend interfaces. I also work with **Flutter** for mobile app development.
 
