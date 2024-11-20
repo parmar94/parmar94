@@ -9,7 +9,7 @@ I'm a full-stack developer with over 5 years of experience building scalable and
 
 ### 🛠️ Languages and Tools
 
-- **Languages**: GoLang, Node.js, Python, JavaScript
+- **Languages**: GoLang, Node.js, Python, Dart
 - **Frontend**: React.js, Next.js, Flutter
 - **Backend**: gRPC, RESTful APIs, GraphQL, Microservices, Event-Driven Systems
 - **Cloud & DevOps**: AWS (EC2, ECS, EKS, Lambda), Firebase, Docker, Kubernetes, CI/CD
