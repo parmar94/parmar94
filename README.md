@@ -1,6 +1,6 @@
 # Hi, I'm Ashish Jain 👋
 
-### Senior Backend Developer | GoLang, Node.js, AWS
+### Senior Backend Developer | GoLang, Node.js, Python, AWS
 
 I'm a backend developer with over 5 years of experience building scalable, reliable, and efficient systems using **GoLang**, **Node.js**, and **AWS**. I specialize in **microservices**, **event-driven architectures**, and **containerized deployments**. I focus on creating backend solutions that are secure, maintainable, and optimized for scalability and performance.
 
