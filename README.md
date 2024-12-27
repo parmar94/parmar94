@@ -2,7 +2,7 @@
 
 ### Senior Backend Developer | GoLang, Node.js, Python, AWS
 
-I'm a backend developer with over 5 years of experience building scalable, reliable, and efficient systems using **GoLang**, **Node.js**, and **AWS**. I specialize in **microservices**, **event-driven architectures**, and **containerized deployments**. I focus on creating backend solutions that are secure, maintainable, and optimized for scalability and performance.
+I'm a backend developer with over 6 years of experience building scalable, reliable, and efficient systems using **GoLang**, **Node.js**, and **AWS**. I specialize in **microservices**, **event-driven architectures**, and **containerized deployments**. I focus on creating backend solutions that are secure, maintainable, and optimized for scalability and performance.
 
 ***
 
@@ -35,9 +35,7 @@ I enjoy solving complex backend challenges and take pride in delivering systems 
 
 Feel free to connect with me for collaboration, consulting, or to discuss backend development and cloud solutions!
 
-[![Upwork](https://img.shields.io/badge/Upwork-Ashish_Jain-brightgreen?style=flat\&logo=upwork)](https://www.upwork.com/fl/~0193c9490c267c3d68)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish_Jain-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/ashish-jain-dev/)
-[![Email](https://img.shields.io/badge/Email-ashish2103parmar@gmail.com-informational?style=flat\&logo=gmail)](mailto:ashish2103parmar@gmail.com)
 
 ***
 
