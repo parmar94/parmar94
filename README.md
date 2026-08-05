@@ -47,7 +47,7 @@ A reusable governance layer between an AI agent and the tools or systems it can 
 **Backend:** FastAPI, REST, gRPC, microservices, event-driven systems  
 **Data:** PostgreSQL, MongoDB, Redis, Kafka  
 **Cloud:** AWS, Docker, CI/CD  
-**AI systems:** LLM APIs, structured outputs, agents, tools, evaluations, approval workflows  
+**AI systems:** LLM integrations, structured outputs, tool-using agents, evaluations, approval workflows  
 
 ## Engineering Approach
 
